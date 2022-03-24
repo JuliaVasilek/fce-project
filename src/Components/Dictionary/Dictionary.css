@@ -1,0 +1,52 @@
+.dictionary {
+
+}
+
+.dictionary_inner {
+
+}
+
+.dictionary_inner_tables {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 100px 0;
+}
+
+.dictionary_inner_tables_myList {
+  
+}
+
+.dictionary_inner_tables_character {
+  
+}
+
+.dictionary_inner_tables_phrasalVerb {
+  
+}
+
+.dictionary__tableItem {
+  padding: 30px;
+  width: 570px;
+  border: 1px solid #351A56;
+}
+
+.dictionary__tableItem:not(:nth-last-of-type(-n+2)) {
+  margin-bottom: 54px;
+}
+
+.dictionary__title {
+  font-family: 'Patsy Sans';
+}
+
+.dictionary__list {
+  
+}
+
+.dictionary__list_item {
+  list-style: inside;
+  line-height: 32.74px;
+}
+
+

@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import '../src/fonts/Nunito-font/nunito-regular-webfont.woff2'
+import '../src/fonts/Nunito-font/nunito-regular-webfont.woff'
+import '../src/fonts/PatsySans/patsysans-webfont.woff2'
+import '../src/fonts/PatsySans/patsysans-webfont.woff'
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
